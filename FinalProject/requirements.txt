@@ -1,0 +1,16 @@
+pandas
+matplotlib
+
+pandas
+bs4
+jupyter-dash
+dash-cytoscape
+jupyter_server_proxy
+
+
+
+nltk
+pandas
+numpy
+networkx
+bokeh
