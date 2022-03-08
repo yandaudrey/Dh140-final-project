@@ -1,4 +1,4 @@
-# Network analysis of Tower Theatre and Los Angeles Theatre 
+# Network analysis of Tower Theatre and Los Angeles Theatre [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yandaudrey/Dh140-final-project.git/HEAD)
 ### Introduction
 My project focuses on newspaper articles in <em>The Los Angeles News</em> published between 1927–1931 surrounding Tower Theatre and Los Angeles Theatre in downtown LA. 
 Both Tower Theatre and Los Angeles Theatre were built by legendary architect S. Charles Lee in 1927 and 1931, respectively.
