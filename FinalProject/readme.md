@@ -1,6 +1,6 @@
 # Network analysis of Tower Theatre and Los Angeles Theatre 
 
-<em>For interactive notebook and complete sources, click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yandaudrey/Dh140-final-project.git/HEAD)</em>
+<em>Click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yandaudrey/Dh140-final-project.git/HEAD) to explore datasets and interactive Jyupter nootbook</em>
 
 
 ### Introduction
