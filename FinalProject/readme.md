@@ -1,6 +1,8 @@
-# Network analysis of Tower Theatre and Los Angeles Theatre [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yandaudrey/Dh140-final-project.git/HEAD)
-
 # Network analysis of Tower Theatre and Los Angeles Theatre 
+
+<em>For interactive notebook and complete sources, click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yandaudrey/Dh140-final-project.git/HEAD)</em>
+
+
 ### Introduction
 My project focuses on newspaper articles in <em>The Los Angeles News</em> published between 1927–1931 surrounding Tower Theatre and Los Angeles Theatre in downtown LA. Both theaters, located in Historic Core, were originally owned by entrepreneur H. L. Gumbiner (1879-1952) and designed by architect S. Charles Lee (1899-1990) in 1927 and 1931, respectively. These two theaters demonstrated a multiplicity of innovations and represented a peak of Los Angeles movie palaces in the 1920s and the beginning of the 1930s. 
 
